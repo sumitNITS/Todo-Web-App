@@ -1,7 +1,7 @@
 {% extends 'todos/base.html' %}
 
 {% block title %}
-<title>Todo list</title>
+<title>Sumit's Todo List</title>
 {% endblock %}
 
 {% block content %}
@@ -12,7 +12,7 @@
     <div class="offset-md-2 col-lg-9">
       <div class="page-header">
         <h1>
-          Todo List
+          Sumit's Todo List
         </h1>
       </div>
     </div>
@@ -25,7 +25,7 @@
         {% csrf_token %}
         <div class="form-row">
           <div class="col-md-6">
-            <input type="text" class="form-control" name="title" placeholder="Do laundry" required>
+            <input type="text" class="form-control" name="title" placeholder="Hey, use me for writing" required>
           </div>
           <div class="col-md-6">
             <button type="submit" name="submit" class="btn btn-outline-primary">
