@@ -31,6 +31,6 @@ Run the server locally using:
 
 #python manage.py runserver
 
-This project is now running in your localhost <br /> "http://127.0.0.1:8000/"
+This project is now running in your localhost <br /> http://127.0.0.1:8000/
 
 Cheers, we are done here!
