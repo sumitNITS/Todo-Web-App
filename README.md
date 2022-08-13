@@ -58,6 +58,10 @@ Copy the image_id_number and run the container using the docker image
 
 #docker run -d -p 9000:9000 image_id_number
 
+Check the container status using the command:
+
+#docker ps
+
 I'm using port 9000 for this project for docker container, verify the port in Dockerfile (You can change it and play along with the codes)
 
 Cool, This project is now running in your localhost using docker container <br /> http://127.0.0.1:9000/
