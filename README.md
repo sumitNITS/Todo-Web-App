@@ -11,7 +11,7 @@ clone the repository using:
 Install virtualenv for this project and activate it: (If you are testing it locally, otherwise you can ignore this step)
 
 #pip install virtualenv <br />
-#python -m virtalenv <name_of_environment>
+#python -m virtalenv <name_of_environment> <br />
 #.\name_of_environment\Scripts\activate
 
 Move to the projec folder:
@@ -24,13 +24,13 @@ Install django framework for this project:
 
 Migrate the components needed to run this project:
 
-#python manage.py makemigrations
+#python manage.py makemigrations <br />
 #python manage.py migrate
 
 Run the server locally using:
 
 #python manage.py runserver
 
-This project is now running in your localhost "http://127.0.0.1:8000/"
+This project is now running in your localhost <br /> "http://127.0.0.1:8000/"
 
 Cheers, we are done here!
