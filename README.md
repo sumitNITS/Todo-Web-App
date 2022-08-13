@@ -11,6 +11,7 @@ clone the repository using:
 Install virtualenv for this project and activate it: (If you are testing it locally, otherwise you can ignore this step)
 
 #pip install virtualenv
+#python -m virtalenv <name_of_environment>
 #.\name_of_environment\Scripts\activate
 
 Move to the projec folder:
