@@ -1,4 +1,4 @@
-This is a web based todo-web-app created using python and django framework.
+This is a web based todo-web-app created using HTML, CSS, Python and django framework.
 
 ## How to use this??
 
