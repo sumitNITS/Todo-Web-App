@@ -16,7 +16,7 @@ Install virtualenv for this project and activate it: (If you are testing it loca
 
 Move to the projec folder:
 
-#cd /Todo-Web-App
+#cd Todo-Web-App
 
 Install django framework for this project:
 
