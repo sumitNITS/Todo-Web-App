@@ -1,4 +1,4 @@
-This is a web based Todo-Web-App created using HTML, CSS, Python and django framework.
+This is a web based Todo-Web-App created using HTML, CSS, Python, Dockerfile and django framework.
 
 ## How to use this Project In Local machine?
 
