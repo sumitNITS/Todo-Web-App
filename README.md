@@ -4,7 +4,7 @@ This is a web based todo-web-app created using python and django framework.
 
 Great question, Follow the steps below:
 
-clone the repository using: 
+Clone the repository using: 
 
 #git clone https://github.com/sumitNITS/Todo-Web-App.git
 
